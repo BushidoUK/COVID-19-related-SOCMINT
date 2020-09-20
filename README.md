@@ -9,3 +9,5 @@ Public documentation of groups that aim to spread COVID-19 related disinformatio
 [Instagram](https://github.com/BushidoUK/COVID-19-related-SOCMINT/blob/master/Instagram.csv)
 
 [YouTube](https://github.com/BushidoUK/COVID-19-related-SOCMINT/blob/master/YouTube.csv)
+
+[Telegram](https://github.com/BushidoUK/COVID-19-related-SOCMINT/blob/master/Telegram.csv)
