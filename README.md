@@ -15,3 +15,5 @@ Public documentation of groups that aim to spread COVID-19 related disinformatio
 [Discord](https://github.com/BushidoUK/COVID-19-related-SOCMINT/blob/master/Discord.csv)
 
 [LinkedIn](https://github.com/BushidoUK/COVID-19-related-SOCMINT/blob/master/LinkedIn.csv)
+
+[Hashtags across Social Media](https://github.com/BushidoUK/COVID-19-related-SOCMINT/blob/master/Hashtags.csv)
