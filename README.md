@@ -13,3 +13,5 @@ Public documentation of groups that aim to spread COVID-19 related disinformatio
 [Telegram](https://github.com/BushidoUK/COVID-19-related-SOCMINT/blob/master/Telegram.csv)
 
 [Discord](https://github.com/BushidoUK/COVID-19-related-SOCMINT/blob/master/Discord.csv)
+
+[LinkedIn](https://github.com/BushidoUK/COVID-19-related-SOCMINT/blob/master/LinkedIn.csv)
